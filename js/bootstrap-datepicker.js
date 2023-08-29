@@ -472,3 +472,5 @@
 						'</div>';
 
 }( window.jQuery );
+
+export default $.fn.datepicker;

@@ -1,20 +1,23 @@
 {
-    "name": "bootstrap-datepicker-eyecon",
-    "version": "1.0.1",
-    "license": "Apache 2.0",
-    "description": "The original Datepicker for Bootstrap from eyecon.",
-    "author": {
-      "name": "Glamping Hub",
-      "email": "it@glampinghub.com"
-    },
-    "keywords": [
-      "bootstrap-datepicker",
-      "bootstrap",
-      "datepicker",
-      "eyecon"
-    ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Glamping-Hub/bootstrap-datepicker-eyecon.git"
-    }
-  }
+  "name": "bootstrap-datepicker-eyecon",
+  "version": "1.0.2",
+  "license": "Apache 2.0",
+  "description": "The original Datepicker for Bootstrap from eyecon.",
+  "author": {
+    "name": "Glamping Hub",
+    "email": "it@glampinghub.com"
+  },
+  "keywords": [
+    "bootstrap-datepicker",
+    "bootstrap",
+    "datepicker",
+    "eyecon"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Glamping-Hub/bootstrap-datepicker-eyecon.git"
+  },
+  "main": "./js/bootstrap-datepicker.js",
+  "module": "./js/bootstrap-datepicker.js",
+  "style": "./css/datepicker.css"
+}
